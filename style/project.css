@@ -26,3 +26,29 @@ body{font-family: 'Inter', sans-serif;
         font-weight: 900;
         line-height: 95px; }
          .D {padding: 150px; }
+    
+         /* main section */
+         .E{color: #F00;
+            text-align: center;
+            font-family: Inter;
+            font-size: 88px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;}
+            .F{color: #F00;
+                text-align: center;
+                font-family: Inter;
+                font-size: 24px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: normal;}
+
+                .G{color: #070211;
+                    text-align: center;
+                    font-family: Inter;
+                    font-size: 48px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: normal;}
+       .H{ margin-left: 399px;}  
+      
