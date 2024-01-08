@@ -82,3 +82,69 @@ padding-left: 350px;}
             font-weight: 600;
             line-height: 56px; /* 175% */
             text-transform: capitalize;}
+
+            .R{color: #FFF;
+                text-align: center;
+                font-family: Inter;
+                font-size: 20px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: normal;
+                text-transform: uppercase;
+                border-radius: 8px;
+                background: #F00;display: inline-flex;
+                padding: 16px 32px;
+                justify-content: center;
+                align-items: center;
+                gap: 10px;}
+
+            .L {display: flex;
+                justify-content: space-between;
+                width: 1600px;
+                height: 500px;
+            margin: auto;
+        background: #FFF;
+    margin-top: 120px;}
+
+            .M{color: #F00;
+                font-family: Inter;
+                font-size: 24px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: normal;
+            margin-bottom: -100px;}
+
+                .N{color: #070211;
+                    font-family: Merriweather;
+                    font-size: 48px;
+                    font-style: normal;
+                    font-weight: 900;
+                    line-height: normal;
+                    text-transform: capitalize;}
+                 
+                    
+               .O{color: rgba(7, 2, 17, 0.60);
+                font-family: Inter;
+                font-size: 20px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 32px; /* 160% */}  
+                
+                .P{color: #F00;
+                    font-family: Inter;
+                    font-size: 48px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: normal;
+                margin-bottom: -15px;}
+
+                    .Q{width: 463px;
+                        height: 463px;
+                        border-radius: 350px;
+                        border: 15px solid #F00;
+                    text-align: center ;}
+                    
+.S{margin-top:35px;
+height: 400px;
+width: 400px;}
+                       
